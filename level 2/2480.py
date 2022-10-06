@@ -17,3 +17,4 @@ else:
     else:
       R=100*C
 print(R)
+#max(안에 요소중 max값)
